@@ -7,7 +7,7 @@ You are a Data Analyst at an e-commerce company. Your manager wants to identify 
 
 Use the existing `sql_practice` database and `orders` table.
 
-## 🎯 Task
+##  Task
 
 Write a SQL query that displays:
 
