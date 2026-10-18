@@ -42,14 +42,7 @@ ORDER BY total_spent DESC;
 - **`HAVING COUNT(*) > 1`** — Filters out customers with only one order.
 - **`ORDER BY total_spent DESC`** — Displays the highest-spending customers first.
 
-## 📊 Expected Output Format
 
-| customer_name | total_orders | total_spent |
-|---|---:|---:|
-| Customer with highest spending | Number of orders | Total amount |
-| Customer with second-highest spending | Number of orders | Total amount |
-
-*Run the query in MySQL Workbench to obtain the exact results from your dataset.*
 
 ## 📚 Key Learning
 
